@@ -1,0 +1,118 @@
+body{
+	padding:15px;
+	background-image: url("view/images/fond5.jpg");
+}
+header {
+	height: 120px;
+	margin-bottom: 30px;
+	background-color: white;
+	border-style: double;
+	border-color: #073890;
+	border-width: 5px;
+}
+
+label{
+	margin:5px;
+}
+
+input{
+	margin-bottom:5px;
+}
+
+#titre{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 60px;
+	text-align: center;
+	color: cornflowerblue;
+}
+
+#page{
+	border: 1px solid transparent;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	padding-top: 20px;
+	padding-bottom: 100px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#formNew{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#questCode{
+	margin-bottom: 20px;
+}
+
+#enfant{
+	margin:10px;
+	border-style: solid;
+	border-color: #073890;
+}
+
+#carte{
+	margin:10px;
+}
+
+#ajout{
+	margin:30px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+nav{
+	margin-bottom:20px;
+}
+
+#left{
+	margin-left: 100px;
+}
+
+#niv9{
+	background-color: #ff4233;
+}
+
+#niv8{
+	background-color: #fab323;
+}
+
+#niv6{
+	background-color: #faed23;
+}
+
+#niv5{
+	background-color: #bcfa23;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
